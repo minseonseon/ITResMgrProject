@@ -264,7 +264,7 @@ function addItemsearch() {
 
 					$('#addItemTable > tbody').append(addTableRow);
 				}
-				alert(response.length + "건이 조회되었습니다.");
+				//alert(response.length + "건이 조회되었습니다.");
 			}
 			return;
 		}
